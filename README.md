@@ -44,7 +44,7 @@
   <a href="https://www.youtube.com/@HassnainAli914" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://codepen.io/Hassnain-Ali-the-decoder" target="_blank">
+  <a href="https://codepen.io/HassnainAli914" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="codepen logo"  />
   </a>
   <a href="https://www.facebook.com/hassnainali197030" target="_blank">
