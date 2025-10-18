@@ -58,8 +58,12 @@
   <img src="https://profile-counter.glitch.me/hassnainali914/count.svg?"  />
 </div>
 
-###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HassnainAli914&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HassnainAli914&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HassnainAli914&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<img src="https://raw.githubusercontent.com/hassnainali914/output/snake.svg" alt="Snake animation" />
+---
+[![](https://visitcount.itsvg.in/api?id=HassnainAli914&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
